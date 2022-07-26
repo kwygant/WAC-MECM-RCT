@@ -22,7 +22,7 @@
  </ImagesDescription> 
  <Executable>
    <FilePath>Powershell.exe</FilePath>
-   <Parameters>-noexit -windowstyle hidden -command .\..\Extensions\a4cf0cf4-5265-459e-8fd7-57d8e35617b3\1.0\bin\AddCollToWAC.ps1 ##SUB:CollectionID## </Parameters>
+   <Parameters>-noexit -windowstyle hidden -executionpolicy bypass -command .\..\Extensions\a4cf0cf4-5265-459e-8fd7-57d8e35617b3\1.0\bin\AddCollToWAC.ps1 ##SUB:CollectionID## </Parameters>
  </Executable>
  <ShowOn>
    <string>ContextMenu</string>
