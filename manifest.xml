@@ -1,0 +1,45 @@
+<CustomExtensionManifest ExtensionID="a4cf0cf4-5265-459e-8fd7-57d8e35617b3" Name="Open in Windows Admin Center" Description="Open Windows Admin Center (WAC) directly to the page for selected device or add all devices in a collection to WAC selection screen. Don't forget to install the CM extension in WAC." Version="1.0" Author="Ken Wygant (Microsoft CSA-E)">
+    <Deployments>
+        <ActionExtensionDeployment ParentNode="3fd01cd1-9e01-461e-92cd-94866b8d1f39">
+            <FileList>
+                <File Name="WAC_Launch.xml">
+                    <Hash Algorithm="sha256">05264872CD710F50E18E474F37E089AEDB92DD89EFC8D47DF742BA33646CF475</Hash>
+                </File>
+                <File Name="WAC_Launch.ps1">
+                    <Hash Algorithm="sha256">3C2D51E0C5C90182EB5E6AB8D8184308914BA332DE1F9CE557815BB2DFD2FB9A</Hash>
+                </File>
+                                <File Name="AddCollToWAC.ps1">
+                    <Hash Algorithm="sha256">D666BC53F02B1D76241A242D714DE1C7CD54241C49BCCD78979EF68D3D8A8B14</Hash>
+                </File>
+            </FileList>
+        </ActionExtensionDeployment>
+        <ActionExtensionDeployment ParentNode="0770186d-ea57-4276-a46b-7344ae081b58">
+            <FileList>
+                <File Name="WAC_Launch2.xml">
+                    <Hash Algorithm="sha256">05264872CD710F50E18E474F37E089AEDB92DD89EFC8D47DF742BA33646CF475</Hash>
+                </File>
+            </FileList>
+        </ActionExtensionDeployment>
+        <ActionExtensionDeployment ParentNode="ed9dee86-eadd-4ac8-82a1-7234a4646e62">
+            <FileList>
+                <File Name="WAC_Launch3.xml">
+                    <Hash Algorithm="sha256">05264872CD710F50E18E474F37E089AEDB92DD89EFC8D47DF742BA33646CF475</Hash>
+                </File>
+            </FileList>
+        </ActionExtensionDeployment>
+                <ActionExtensionDeployment ParentNode="3785759b-db2c-414e-a540-e879497c6f97">
+            <FileList>
+                <File Name="AddCollToWAC.xml">
+                    <Hash Algorithm="sha256">3C1F131E8D46DB95556567AA7E4539AB56059C92A4775921CB7E0AD80EE86205</Hash>
+                </File>
+            </FileList>
+        </ActionExtensionDeployment>
+                <ActionExtensionDeployment ParentNode="a92615d6-9df3-49ba-a8c9-6ecb0e8b956b">
+            <FileList>
+                <File Name="AddCollToWAC2.xml">
+                    <Hash Algorithm="sha256">3C1F131E8D46DB95556567AA7E4539AB56059C92A4775921CB7E0AD80EE86205</Hash>
+                </File>
+            </FileList>
+        </ActionExtensionDeployment>
+    </Deployments>
+</CustomExtensionManifest>
