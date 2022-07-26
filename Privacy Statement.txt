@@ -1,0 +1,1 @@
+The WACRCT console extension collects no information, private or otherwise. No information is sent back to the extension author.
