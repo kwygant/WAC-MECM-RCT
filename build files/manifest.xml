@@ -6,10 +6,10 @@
                     <Hash Algorithm="sha256">9360023812F5217D92CAB9C2024A9F6CEECF2F5543BF57645F8C4B6392350F06</Hash>
                 </File>
                 <File Name="WAC_Launch.ps1">
-                    <Hash Algorithm="sha256">8C39D3E18AAB1C0CA0C3BD7AD7B688DAA0C52E600DF629829EBA94C3BECB92F1</Hash>
+                    <Hash Algorithm="sha256">FE3900087FD93D3AB332D04F4355ED4E752193DB5D20DBB39EAE8705FC7BAF55</Hash>
                 </File>
                                 <File Name="AddCollToWAC.ps1">
-                    <Hash Algorithm="sha256">D666BC53F02B1D76241A242D714DE1C7CD54241C49BCCD78979EF68D3D8A8B14</Hash>
+                    <Hash Algorithm="sha256">A4250A9F5FDBA8DFDA48867A53E3BE3CEC9C5DEB5E680AE7C87074F0FB3518C9</Hash>
                 </File>
             </FileList>
         </ActionExtensionDeployment>

@@ -1,0 +1,25 @@
+;*** BEGIN **********************************************************
+;**                                                                **
+;** Automatically generated on: Wed Jul 27 11:30:46 2022           **
+;**                                                                **
+;** MakeCAB Version: 5.00                                 **
+;**                                                                **
+;*** BEGIN **********************************************************
+[disk list]
+1,Disk 1
+[cabinet list]
+1,1,WACRCT.cab
+[file list]
+1,1,WAC_Launch.xml,2870
+1,1,WAC_Launch2.xml,2870
+1,1,WAC_Launch3.xml,2870
+1,1,WAC_Launch.ps1,84044
+1,1,AddCollToWAC.xml,1451
+1,1,AddCollToWAC2.xml,1451
+1,1,AddCollToWAC.ps1,45288
+1,1,manifest.xml,2661
+;*** END ************************************************************
+;**                                                                **
+;** Automatically generated on: Wed Jul 27 11:30:46 2022           **
+;**                                                                **
+;*** END ************************************************************
